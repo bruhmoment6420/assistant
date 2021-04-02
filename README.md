@@ -12,6 +12,6 @@ The app is available in the following formats
 ### Website (Reccomended)
 To use the app as a website go to this [link](https://assignment-assistant.netlify.app/).
 ### APK (A bit broken)
-Download and install the APK from the releases section [here](bruh.com).
+Download and install the APK from the releases section [here](https://github.com/bruhmoment6420/assistant/releases/tag/v1.0).
 ### Expo Go (Also a bit broken)
 This method requires a app to be installed on either your Android or IOS device. Go [here](https://expo.io/@tahlial/projects/assistant) for further instructions.
