@@ -14,4 +14,4 @@ To use the app as a website go to this [link](https://assignment-assistant.netli
 ### APK 
 Download and install the APK from the releases section [here](bruh.com).
 ### Expo Go 
-This method requires a app to be installed on either your Android or IOS device. Go [here]() for further instructions.
+This method requires a app to be installed on either your Android or IOS device. Go [here](https://expo.io/@tahlial/projects/assistant) for further instructions.
